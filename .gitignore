@@ -25,5 +25,3 @@ package-lock.json
 # Misc
 .DS_Store
 .ruby-version
-_sass/dist
-assets/js/dist
